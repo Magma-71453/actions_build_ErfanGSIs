@@ -15,7 +15,7 @@ on:
     
 env:
   ROM_URL: https://github.com/naz664/crDroid_gsi/releases/download/v2024.09.13/crDroid-10.8-arm64_bgN-Unofficial.img.xz
-  ROM_NAME: Crdroid
+  ROM_NAME: Crdroidd
   BUILD_TYPE: ab
   TZ: Asia/Shanghai
 
